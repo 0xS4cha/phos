@@ -313,10 +313,6 @@ timeline
 - [Colored](https://docs.rs/colored/latest/colored/) — Terminal coloring library
 - [Terminal Size](https://docs.rs/terminal_size/latest/terminal_size/) — Terminal dimensions library
 
-## Disclaimer
-
-IMPORTANT — Educational use only:
-- Use this repository for study and reference only.
 
 ## Feedback
 
